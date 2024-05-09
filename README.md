@@ -16,6 +16,6 @@ Some useful links:
 
 | Platform   | Link                                              | Logo                                                     |
 |------------|---------------------------------------------------|----------------------------------------------------------|
-| Twitter    | [X/Twitter](https://twitter.com/johnkdev)         | ![Twitter Logo](https://johnk.dev/assets/linkedin.png)   |
-| LinkedIn   | [LinkedIn](https://linkedin.com/in/johnharrykelly)| ![LinkedIn Logo](https://johnk.dev/assets/linkedin.png)  |
+| Twitter    | [X/Twitter](https://twitter.com/johnkdev)         | ![Twitter Logo](https://johnk.dev/assets/x.png = 16x)          |
+| LinkedIn   | [LinkedIn](https://linkedin.com/in/johnharrykelly)| ![LinkedIn Logo](https://johnk.dev/assets/linkedin.png = 16x)  |
 | Email      | [Email](mailto:johnharrykelly@gmail.com)          | ![Email Icon](https://i.imgur.com/3QbC9Pm.png)           |
