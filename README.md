@@ -1,6 +1,7 @@
 ## About me
 
-I'm John, an Electrical Engineering/Computer Science student at Imperial College London and current software intern at Marshall Wace.
+I'm John, an Electrical Engineering/Computer Science student at Imperial College London.
+Previously I was an intern & then full-time engineer at Hero Health, and an intern at Marshall Wace.
 
 You can find my website at https://johnk.dev, featuring my articles and CV.
 
@@ -15,6 +16,5 @@ Contact me:
 
 | Platform   | Link                                     |
 |------------|------------------------------------------|
-| Twitter    | https://twitter.com/johnkdev             |
 | LinkedIn   | https://linkedin.com/in/johnharrykelly   |
 | Email      | mailto:johnharrykelly@gmail.com          |
